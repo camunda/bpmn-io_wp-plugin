@@ -20,7 +20,7 @@ Adds support for .bpmn files within the WordPress Media Library.
 
 ## Usage
   * ### Option A: Use as Media Type
-    `Manage` and `Add` .bpmn files in the same manner as images and videos.
+    `Manage` and `Add` .bpmn files within the WordPress Media Library in same manner as images and videos.
 
   * ### Option B: Shortcode (TODO)
     BPMN XML data may be inserted directly via shortcode 

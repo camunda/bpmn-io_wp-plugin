@@ -25,10 +25,10 @@ Adds support for .bpmn files within the Media Library.
 
 == Frequently Asked Questions ==
 
-= Where is my left sock =
+= Where is my left sock? =
 Have you looked under the couch?
 
-= Where are there serious FAQs? 
+= Where are the serious FAQs? 
 Please check the bpmn.io forum at [https://forum.bpmn.io/](https://forum.bpmn.io/).
 
 
@@ -41,7 +41,6 @@ Please check the bpmn.io forum at [https://forum.bpmn.io/](https://forum.bpmn.io
 == Changelog ==
 
 = 1.0 =
-* Initial release.
 * Register the "application/bpmn-xml" mime-type.
 * Extend Media Library to allow .bpmn files.
 * Display .bpmn files via [bpmn.io](http://bpmn.io/).
