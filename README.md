@@ -15,9 +15,6 @@ Adds support for .bpmn files within the WordPress Media Library.
 1. Clone or Unzip `bpmn.io` to the `/wp-content/plugins/` directory
 2. Activate the `bpmn.io` through the 'Plugins' menu in WordPress
 
-1. Clone this repository in the `/wp-content/plugins/` of your WordPress install.
-2. Activate `bpmn-io-WP-Plugin` under `Admin -> Plugins -> bpmn.io -> Activate`.
-
 ## Usage
   * ### Option A: Use as Media Type
     `Manage` and `Add` .bpmn files within the WordPress Media Library in same manner as images and videos.
