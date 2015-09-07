@@ -34,6 +34,12 @@ Please check the bpmn.io forum at [https://forum.bpmn.io/](https://forum.bpmn.io
 
 == Screenshots ==
 
+1. .bpmn files displayed in the media library.
+2. .bpmn media rendered in a post.
+
+
+== Screenshots ==
+
 1. `/assets/media_library.png`
 2. `/assets/post.png`
 
